@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "gob6MBdnffn+4T9rMeOKU8mdLLhPHdhD7iTxXkq5+bSPKgspS5YNDlmFaRbPEe9V26WFi8Zm4TtkZuVroPskcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arthur\\source\\repos\\Sorting\\Sorting\\Sorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\documentformat.openxml\\2.15.0\\documentformat.openxml.2.15.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\elasticsearch.net\\7.16.0\\elasticsearch.net.7.16.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\nest\\7.16.0\\nest.7.16.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
